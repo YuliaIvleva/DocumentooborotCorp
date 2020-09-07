@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.10">
+	<Item id="8c0a0681-8423-43be-aefd-522783cc5b3b">
+		<Name>Доллар</Name>
+		<Code>000000002</Code>
+		<Description>Доллар</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="41c4413b-463a-4919-bfa0-5f0f7dee1a00">
+		<Name>Евро</Name>
+		<Code>000000003</Code>
+		<Description>Евро</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="06351797-c446-4b04-8674-e71bf62cd14e">
+		<Name>Иена</Name>
+		<Code>000000004</Code>
+		<Description>Иена</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="29783431-e3a1-4d2a-bca9-f72a132f6ba9">
+		<Name>Рубль</Name>
+		<Code>000000001</Code>
+		<Description>Рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="019fe8df-45fa-40a9-9767-b8337676b891">
+		<Name>Франк</Name>
+		<Code>000000005</Code>
+		<Description>Франк</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
