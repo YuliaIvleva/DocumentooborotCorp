@@ -190,6 +190,7 @@
 			<Language>Русский</Language>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
+			<Catalog>Подразделение</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
