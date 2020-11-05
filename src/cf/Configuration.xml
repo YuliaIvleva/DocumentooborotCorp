@@ -189,8 +189,13 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Документы</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
+			<Role>ЧтениеКонтрагентов</Role>
+			<Role>ИзменениеКонтрагентов</Role>
+			<Role>ЧтениеДокументов</Role>
+			<Role>ИзменениеДокументов</Role>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
@@ -198,6 +203,8 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>КонтактныеЛицаКонтрагентов</Catalog>
+			<Catalog>Файлы</Catalog>
+			<Document>Справка</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
