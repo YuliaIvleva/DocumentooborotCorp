@@ -22,6 +22,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ФизическиеЛица</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.КонтактныеЛицаКонтрагентов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Пользователи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Файлы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВнутренниеДокументы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

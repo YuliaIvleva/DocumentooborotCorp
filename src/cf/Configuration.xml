@@ -196,6 +196,7 @@
 			<Role>ИзменениеКонтрагентов</Role>
 			<Role>ЧтениеДокументов</Role>
 			<Role>ИзменениеДокументов</Role>
+			<Role>Администратор</Role>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
