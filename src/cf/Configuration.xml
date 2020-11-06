@@ -191,7 +191,7 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Документы</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
-			<Role>ПолныеПрава</Role>
+			<Role>Пользователь</Role>
 			<Role>ЧтениеКонтрагентов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
 			<Role>ЧтениеДокументов</Role>
