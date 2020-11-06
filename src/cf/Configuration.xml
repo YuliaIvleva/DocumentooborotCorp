@@ -206,7 +206,7 @@
 			<Catalog>КонтактныеЛицаКонтрагентов</Catalog>
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
-			<Document>Справка</Document>
+			<Catalog>ВидыДокументов</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

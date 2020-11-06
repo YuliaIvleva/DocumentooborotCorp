@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.10">
+	<Item id="5671c609-97b6-4442-a766-871624f1e012">
+		<Name>Договор</Name>
+		<Code>000000002</Code>
+		<Description>Договор</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="fc3d28f1-a278-4e9a-b4f1-dc1aa08b0945">
+		<Name>Отчет</Name>
+		<Code>000000001</Code>
+		<Description>Отчет</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="bd509681-ea22-4d09-96b7-13e1ac64949f">
+		<Name>СлужебнаяЗаписка</Name>
+		<Code>000000003</Code>
+		<Description>Служебная записка</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
