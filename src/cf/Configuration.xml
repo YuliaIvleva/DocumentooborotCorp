@@ -194,6 +194,8 @@
 			<Subsystem>ПланВидовХарактеристик</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
 			<Subsystem>РегистрыНакоплений</Subsystem>
+			<Subsystem>Задачи</Subsystem>
+			<Subsystem>БизнесПроцессы</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<SessionParameter>РазделительЗначение</SessionParameter>
 			<SessionParameter>РазделительИспользование</SessionParameter>
@@ -205,6 +207,7 @@
 			<Role>Администратор</Role>
 			<Role>СогласованиеДокументов</Role>
 			<CommonModule>ОбщийМодульПолнотекстовыйПоиск</CommonModule>
+			<CommonModule>РаботаСПользователями</CommonModule>
 			<CommonAttribute>Разделитель</CommonAttribute>
 			<ScheduledJob>ПолнотекстовыйПоиск</ScheduledJob>
 			<Catalog>Валюты</Catalog>
@@ -224,8 +227,11 @@
 			<Enum>СогласованностьДокумента</Enum>
 			<Report>ПланФактПроекта</Report>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
+			<InformationRegister>Адресация</InformationRegister>
 			<AccumulationRegister>ЗатратыПоПроектам</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиЗатратПоПроектам</ChartOfCharacteristicTypes>
+			<BusinessProcess>Исполнение</BusinessProcess>
+			<Task>ЗадачиПользователя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
