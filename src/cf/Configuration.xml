@@ -195,6 +195,8 @@
 			<Subsystem>Отчеты</Subsystem>
 			<Subsystem>РегистрыНакоплений</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<SessionParameter>РазделительЗначение</SessionParameter>
+			<SessionParameter>РазделительИспользование</SessionParameter>
 			<Role>Пользователь</Role>
 			<Role>ЧтениеКонтрагентов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
@@ -203,6 +205,7 @@
 			<Role>Администратор</Role>
 			<Role>СогласованиеДокументов</Role>
 			<CommonModule>ОбщийМодульПолнотекстовыйПоиск</CommonModule>
+			<CommonAttribute>Разделитель</CommonAttribute>
 			<ScheduledJob>ПолнотекстовыйПоиск</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
