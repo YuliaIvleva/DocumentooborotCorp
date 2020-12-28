@@ -211,6 +211,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<Catalog>ИННОрганизаций</Catalog>
 			<Enum>СогласованностьДокумента</Enum>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 		</ChildObjects>
