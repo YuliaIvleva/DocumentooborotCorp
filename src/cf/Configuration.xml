@@ -198,6 +198,7 @@
 			<Role>ЧтениеДокументов</Role>
 			<Role>ИзменениеДокументов</Role>
 			<Role>Администратор</Role>
+			<Role>СогласованиеДокументов</Role>
 			<CommonModule>ОбщийМодульПолнотекстовыйПоиск</CommonModule>
 			<ScheduledJob>ПолнотекстовыйПоиск</ScheduledJob>
 			<Catalog>Валюты</Catalog>
@@ -210,6 +211,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<Enum>СогласованностьДокумента</Enum>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 		</ChildObjects>
 	</Configuration>

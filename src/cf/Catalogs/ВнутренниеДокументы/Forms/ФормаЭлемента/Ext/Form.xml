@@ -55,6 +55,11 @@
 				<Event name="ChoiceProcessing">ВидОбработкаВыбора</Event>
 			</Events>
 		</InputField>
+		<InputField name="Согласован" id="47">
+			<DataPath>Объект.Согласован</DataPath>
+			<ContextMenu name="СогласованКонтекстноеМеню" id="48"/>
+			<ExtendedTooltip name="СогласованРасширеннаяПодсказка" id="49"/>
+		</InputField>
 		<Table name="Предметы" id="28">
 			<Representation>List</Representation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
