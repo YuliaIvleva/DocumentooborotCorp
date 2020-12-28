@@ -191,6 +191,9 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Документы</Subsystem>
 			<Subsystem>РегистрыСведений</Subsystem>
+			<Subsystem>ПланВидовХарактеристик</Subsystem>
+			<Subsystem>Отчеты</Subsystem>
+			<Subsystem>РегистрыНакоплений</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Пользователь</Role>
 			<Role>ЧтениеКонтрагентов</Role>
@@ -213,8 +216,13 @@
 			<Catalog>ВидыДокументов</Catalog>
 			<Catalog>ИННОрганизаций</Catalog>
 			<Catalog>Проекты</Catalog>
+			<Document>ПлановыеЗатратыПроекта</Document>
+			<Document>ФактическиеРасходы</Document>
 			<Enum>СогласованностьДокумента</Enum>
+			<Report>ПланФактПроекта</Report>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
+			<AccumulationRegister>ЗатратыПоПроектам</AccumulationRegister>
+			<ChartOfCharacteristicTypes>СтатьиЗатратПоПроектам</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
