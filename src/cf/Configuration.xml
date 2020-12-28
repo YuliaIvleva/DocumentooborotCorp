@@ -190,6 +190,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Документы</Subsystem>
+			<Subsystem>РегистрыСведений</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Пользователь</Role>
 			<Role>ЧтениеКонтрагентов</Role>
@@ -209,6 +210,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
