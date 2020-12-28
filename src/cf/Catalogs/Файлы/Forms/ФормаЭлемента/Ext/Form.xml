@@ -34,6 +34,16 @@
 			<ContextMenu name="ИмяФайлаКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ИмяФайлаРасширеннаяПодсказка" id="9"/>
 		</InputField>
+		<InputField name="ПутьДоФайла" id="21">
+			<DataPath>Объект.ПутьДоФайла</DataPath>
+			<ContextMenu name="ПутьДоФайлаКонтекстноеМеню" id="22"/>
+			<ExtendedTooltip name="ПутьДоФайлаРасширеннаяПодсказка" id="23"/>
+		</InputField>
+		<InputField name="Содержание" id="24">
+			<DataPath>Объект.Содержание</DataPath>
+			<ContextMenu name="СодержаниеКонтекстноеМеню" id="25"/>
+			<ExtendedTooltip name="СодержаниеРасширеннаяПодсказка" id="26"/>
+		</InputField>
 		<InputField name="Автор" id="10">
 			<DataPath>Объект.Автор</DataPath>
 			<EditMode>EnterOnInput</EditMode>

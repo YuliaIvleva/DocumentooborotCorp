@@ -197,6 +197,8 @@
 			<Role>ЧтениеДокументов</Role>
 			<Role>ИзменениеДокументов</Role>
 			<Role>Администратор</Role>
+			<CommonModule>ОбщийМодульПолнотекстовыйПоиск</CommonModule>
+			<ScheduledJob>ПолнотекстовыйПоиск</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>

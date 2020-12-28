@@ -238,7 +238,7 @@
 						<xr:Link>
 							<xr:Name>Отбор.Владелец</xr:Name>
 							<xr:DataPath xsi:type="xs:string">Catalog.ВнутренниеДокументы.Attribute.Контрагент</xr:DataPath>
-							<xr:ValueChange>DontChange</xr:ValueChange>
+							<xr:ValueChange>Clear</xr:ValueChange>
 						</xr:Link>
 					</ChoiceParameterLinks>
 					<ChoiceParameters/>
