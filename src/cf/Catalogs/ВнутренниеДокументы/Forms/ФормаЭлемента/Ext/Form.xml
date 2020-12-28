@@ -55,6 +55,11 @@
 				<Event name="ChoiceProcessing">ВидОбработкаВыбора</Event>
 			</Events>
 		</InputField>
+		<InputField name="Проект" id="50">
+			<DataPath>Объект.Проект</DataPath>
+			<ContextMenu name="ПроектКонтекстноеМеню" id="51"/>
+			<ExtendedTooltip name="ПроектРасширеннаяПодсказка" id="52"/>
+		</InputField>
 		<InputField name="Согласован" id="47">
 			<DataPath>Объект.Согласован</DataPath>
 			<ContextMenu name="СогласованКонтекстноеМеню" id="48"/>
