@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыДокументов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ИННОрганизаций</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Проекты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ДополнительныеЗначения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

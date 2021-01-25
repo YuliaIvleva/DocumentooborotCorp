@@ -196,6 +196,7 @@
 			<Subsystem>РегистрыНакоплений</Subsystem>
 			<Subsystem>Задачи</Subsystem>
 			<Subsystem>БизнесПроцессы</Subsystem>
+			<Subsystem>ПланыОбмена</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<SessionParameter>РазделительЗначение</SessionParameter>
 			<SessionParameter>РазделительИспользование</SessionParameter>
@@ -208,7 +209,10 @@
 			<Role>СогласованиеДокументов</Role>
 			<CommonModule>ОбщийМодульПолнотекстовыйПоиск</CommonModule>
 			<CommonModule>РаботаСПользователями</CommonModule>
+			<CommonModule>Обмены</CommonModule>
 			<CommonAttribute>Разделитель</CommonAttribute>
+			<ExchangePlan>Риб</ExchangePlan>
+			<EventSubscription>ПриЗаписиСправочника</EventSubscription>
 			<ScheduledJob>ПолнотекстовыйПоиск</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
@@ -222,14 +226,18 @@
 			<Catalog>ВидыДокументов</Catalog>
 			<Catalog>ИННОрганизаций</Catalog>
 			<Catalog>Проекты</Catalog>
+			<Catalog>ДополнительныеЗначения</Catalog>
 			<Document>ПлановыеЗатратыПроекта</Document>
 			<Document>ФактическиеРасходы</Document>
+			<Document>Доходы</Document>
 			<Enum>СогласованностьДокумента</Enum>
 			<Report>ПланФактПроекта</Report>
 			<InformationRegister>ФИОФизическихЛиц</InformationRegister>
 			<InformationRegister>Адресация</InformationRegister>
 			<AccumulationRegister>ЗатратыПоПроектам</AccumulationRegister>
+			<AccumulationRegister>Доходы</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиЗатратПоПроектам</ChartOfCharacteristicTypes>
+			<ChartOfCharacteristicTypes>Доходы</ChartOfCharacteristicTypes>
 			<BusinessProcess>Исполнение</BusinessProcess>
 			<Task>ЗадачиПользователя</Task>
 		</ChildObjects>
